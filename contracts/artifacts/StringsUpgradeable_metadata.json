@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/YMetis_flattened.sol": "StringsUpgradeable"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/YMetis_flattened.sol": {
+			"keccak256": "0x49ac5816d651ca32f83a003294b11eb8e9a8ab9875fb8b0bd49ccbbb168980b0",
+			"urls": [
+				"bzz-raw://65ff8560e21b3b2830466c1a8188f407230046c4dc8dfde95f4ae3fb4be2ea77",
+				"dweb:/ipfs/QmPbtV2EWBzk1tCT4chCJGPnCKziiAZ8DszpCk1AxhVfkc"
+			]
+		}
+	},
+	"version": 1
+}
